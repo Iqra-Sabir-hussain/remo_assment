@@ -14,3 +14,12 @@ function multwo(nume,umb) {
     console.log(nume*umb);
 }
 multwo(5,7)
+// this is divi 
+
+
+function divitwo(a,b) {
+    console.log(4,6);
+    
+}
+
+divitwo(6,5)
